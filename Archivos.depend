@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1686253808 source:c:\users\dasso\documents\utn programacion 1er cuatrimestre\1. programacion 1\projectos\archivos\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"pila.h"
+
+1490112218 source:c:\users\dasso\documents\utn programacion 1er cuatrimestre\1. programacion 1\projectos\archivos\pila.c
+	"pila.h"
+
+1490112218 c:\users\dasso\documents\utn programacion 1er cuatrimestre\1. programacion 1\projectos\archivos\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1490112218 source:c:\users\olmos\documents\utn progra cuatri 1\1. programacion 1\projectos\tp archivos\pila.c
+	"pila.h"
+
+1490112218 c:\users\olmos\documents\utn progra cuatri 1\1. programacion 1\projectos\tp archivos\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1686289653 source:c:\users\olmos\documents\utn progra cuatri 1\1. programacion 1\projectos\tp archivos\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"pila.h"
+
